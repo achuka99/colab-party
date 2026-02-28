@@ -4,6 +4,7 @@
 
 - Mike
 - Laurah
+- Joshua
 - David Nene
 - New Member
 - Pauline
@@ -16,3 +17,4 @@
 - Monsieur Luk
 - Aboubcry
 - Dora
+
