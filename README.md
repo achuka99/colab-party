@@ -17,6 +17,7 @@
 - Monsieur Luk
 - Aboubcry
 - Dora
+- Simon
 
 For you to join the party, check out the link below: </br>
 [manage profile](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) </br>
