@@ -4,7 +4,6 @@
 
 - Mike
 - Laurah
-- Monsuer Luk
 - Victor
 - Alvin
 - Monsieur Luk 
